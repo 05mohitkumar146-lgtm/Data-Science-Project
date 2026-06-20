@@ -41,14 +41,6 @@ Winning the toss did not always guarantee winning the match.
 Fielding after winning the toss was a common strategy.
 A few players dominated the Player of the Match awards.
 Match outcomes varied significantly across venues.
-📂 Project Structure
-IPL-2022-Data-Analysis/
-│
-├── IPLproject.ipynb
-├── IPL_Data.csv
-├── README.md
-└── images/
-🚀 Learning Outcomes
 
 Through this project, I improved my skills in:
 
